@@ -6,4 +6,5 @@ function setup() {
 
 function draw() {
   // put drawing code here
+  circle (width/2,height/2,100);
 }
